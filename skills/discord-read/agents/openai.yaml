@@ -1,0 +1,6 @@
+interface:
+  display_name: "Discord Read"
+  short_description: "Read Discord channel history with a bot token"
+  default_prompt: "Use $discord-read to read the relevant Discord channel and summarize it."
+policy:
+  allow_implicit_invocation: true
